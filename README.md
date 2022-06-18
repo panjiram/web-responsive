@@ -1,6 +1,6 @@
 # Project Website Portofolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project ini di bual Oleh : *Panji Ramadhan*
 
 ## Available Scripts
 
